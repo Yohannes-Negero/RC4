@@ -1,0 +1,3 @@
+This is a sample plaintext file for RC4 encryption testing.
+It contains multiple lines and some special characters: !@#$%^&*()
+Binary-safe content should survive encryption/decryption unchanged.
